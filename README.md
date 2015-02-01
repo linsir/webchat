@@ -1,6 +1,6 @@
 ###  A simple websocket chat room with tornado.
 
-*****tree** 
+**tree** 
 
     ├── app.py
     ├── README.md
