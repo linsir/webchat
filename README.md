@@ -1,6 +1,6 @@
- ###  A simple websocket chat root with tornado.
+###  A simple websocket chat room with tornado.
 
- tree: 
+*****tree** 
 
     ├── app.py
     ├── README.md
@@ -22,6 +22,7 @@
 
 ### run 
     python app.py
+
 and open http://127.0.0.1:8003 
 
 
