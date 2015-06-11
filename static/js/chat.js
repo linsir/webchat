@@ -99,7 +99,7 @@ function init(username) {
 }
 
 function openWS(messageContainer, userListContainer) {
-  ws = new WebSocket("ws://127.0.0.1:8003/chat");
+  ws = new WebSocket("ws://"+window.location.host+":8003/chat");
   ws.onopen = function(e){
     // init();
   };
